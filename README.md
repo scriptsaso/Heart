@@ -40,8 +40,8 @@ The architecture is designed to leverage both the temporal and spatial aspects o
 
 ## Results
 The model achieved promising results in classifying the ECG signals across different heartbeat categories. The key evaluation metrics include:
-- **Accuracy**: (Insert your result here)
-- **F1 Score**: (Insert your result here)
+- **Accuracy**: 0.98 
+- **F1 Score**: 0.99
 - **Confusion Matrix**: (Insert a link to the confusion matrix plot, if available)
 
 ## How to Run the Project

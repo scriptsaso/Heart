@@ -34,7 +34,7 @@ The dataset is available as a collection of CSV files. Each CSV file contains a 
 The model used for heartbeat classification is a combination of **Convolutional Neural Networks (CNN)** and **Bidirectional Long Short-Term Memory (BiLSTM)** networks. The CNN layers capture spatial features from the ECG signal, while the BiLSTM layers capture the sequential dependencies between different segments of the signal.
 
 **Model Diagram**:  
-(Insert diagram from `CNN-BiLSTM Model Schema.drawio` here, or provide a link)
+(Ongoing Development)
 
 The architecture is designed to leverage both the temporal and spatial aspects of the ECG data to improve classification accuracy.
 
@@ -42,7 +42,8 @@ The architecture is designed to leverage both the temporal and spatial aspects o
 The model achieved promising results in classifying the ECG signals across different heartbeat categories. The key evaluation metrics include:
 - **Accuracy**: 0.98 
 - **F1 Score**: 0.99
-- **Confusion Matrix**: (Insert a link to the confusion matrix plot, if available)
+- **Confusion Matrix**: (Ongoing Development)
+- **App**:(Ongoing Development)
 
 ## How to Run the Project
 To run this project, follow these steps:

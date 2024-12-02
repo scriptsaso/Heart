@@ -50,5 +50,5 @@ To run this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Heart.git
+   git clone https://github.com/scriptsaso/Heart.git
    cd Heart

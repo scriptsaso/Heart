@@ -44,7 +44,7 @@ To get started with this project:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/tubetraveller/heartbeat_dst.git
+   git clone https://github.com/scriptsaso/Heart.git
    ```
 
 2. Install the required dependencies:
